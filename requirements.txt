@@ -1,0 +1,3 @@
+Pymem==1.2
+colorama==0.4.3
+pywin32==224
